@@ -1,0 +1,33 @@
+{
+    "name": "backend",
+    "version": "1.0.0",
+    "main": "server.js",
+    "type": "module",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "description": "",
+    "dependencies": {
+      "@google/generative-ai": "^0.22.0",
+      "@huggingface/inference": "^3.12.1",
+      "bcryptjs": "^3.0.2",
+      "cookie-parser": "^1.4.7",
+      "cors": "^2.8.5",
+      "deepseek": "^0.0.2",
+      "dotenv": "^16.5.0",
+      "express": "^4.21.2",
+      "express-validator": "^7.2.1",
+      "ioredis": "^5.4.2",
+      "jsonwebtoken": "^9.0.2",
+      "mongoose": "^8.11.0",
+      "morgan": "^1.10.0",
+      "openai": "^4.98.0",
+      "socket.io": "^4.8.1"
+    },
+    "devDependencies": {
+      "nodemon": "^3.1.10"
+    }
+  }
