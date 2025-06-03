@@ -21,7 +21,7 @@ This application enhances teamwork and efficiency by integrating **AI-powered as
 
 ### 🏠 Authentication  
 - Users can **register** and **log in** securely.  
-- 2FA (Two-Factor Authentication) for enhanced security.  
+- Jwt For Authentication  
  
 
 ### 📂 Project Management  
