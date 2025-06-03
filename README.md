@@ -84,9 +84,9 @@ npm install
 4️⃣ Start the backend server
 ```sh
 cd ../server
-npm start
+npx nodemon
 ```
 5️⃣ Start the frontend application
 ```sh
 cd ../client
-npm start
+npm run dev
