@@ -1,4 +1,4 @@
-# AI-Integrated Project Collaboration Chat App  
+# Dev-Sync: An AI-Enhanced Real Time Project Collaboration Platform 
 
 This repository contains the source code for an **AI-powered project collaboration chat application**. The app allows users to create projects, invite collaborators, and communicate in private chat rooms. Additionally, users can interact with an AI assistant for code generation and request AI-powered server code execution directly in the browser.  
 
