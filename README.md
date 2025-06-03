@@ -22,16 +22,12 @@ This application enhances teamwork and efficiency by integrating **AI-powered as
 ### 🏠 Authentication  
 - Users can **register** and **log in** securely.  
 - 2FA (Two-Factor Authentication) for enhanced security.  
-
-![Register Page](images/register_page.png)  
-![Login Page](images/login_page.png)  
+ 
 
 ### 📂 Project Management  
 - Create new projects and provide a project name.  
 - Invite **collaborators** to join the project.  
-
-![Creating a Project](images/project_name.png)  
-![Adding Collaborators](images/adding_collab.png)  
+ 
 
 ### 💬 Real-Time Chat & AI Interaction  
 - Private chat rooms for project members.  
@@ -40,15 +36,13 @@ This application enhances teamwork and efficiency by integrating **AI-powered as
   - **Code assistance**  
   - **Debugging suggestions**  
   - **Code review**  
-
-![Project Chat Room](images/sample.png)  
+ 
  
 ### 🖥 AI-Powered Server Code Execution  
 - Users can request AI-generated **server code**.  
 - The application provides an **embedded code editor** to modify code.  
 - Run the **generated server code directly in the browser**.  
-
-![Running Code in Browser](images/sample2.png)  
+ 
 
 ---
 
